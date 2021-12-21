@@ -37,42 +37,42 @@ export default function VendorList({navigation}) {
 function Basic({navigation}) {
   const data = [
     {
-      id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28ba',
-      stationName: 'Afreen Khan',
-      contactNumber: '08165229905',
+      id: 'ad7zcbea-c1b1-46c2-aed5-3ad53abb28ba',
+      stationName: 'Endy Khan',
+      contactNumber: '08165219905',
       stationAddress: '11, Appropriately enhance market street. Ibadan',
       avatarUrl:
         'https://picsum.photos/id/237/200/300',
     },
     {
-      id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28ba',
-      stationName: 'Afreen Khan',
-      contactNumber: '08165229905',
-      stationAddress: '11, Appropriately enhance market street. Ibadan',
+      id: 'be7acbei-c1b1-46c2-aed5-3ad53abb28ba',
+      stationName: 'Apinageri Khan',
+      contactNumber: '08165224905',
+      stationAddress: '12, Appropriately enhance market street. Ibadan',
       avatarUrl:
         'https://picsum.photos/id/231/200/300',
     },
     {
-      id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28ba',
-      stationName: 'Afreen Khan',
-      contactNumber: '08165229905',
-      stationAddress: '11, Appropriately enhance market street. Ibadan',
+      id: 'cd7acbsa-c1b1-46c2-aed5-3ad53abb28ba',
+      stationName: 'Onome Khan',
+      contactNumber: '08165029905',
+      stationAddress: '13, Appropriately enhance market street. Ibadan',
       avatarUrl:
         'https://picsum.photos/id/232/200/300',
     },
     {
-      id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28ba',
-      stationName: 'Afreen Khan',
-      contactNumber: '08165229905',
-      stationAddress: '11, Appropriately enhance market street. Ibadan',
+      id: 'gd7aceea-c1b1-46c2-aed5-3ad53abb28ba',
+      stationName: 'Aganga Khan',
+      contactNumber: '08165299905',
+      stationAddress: '15, Appropriately enhance market street. Ibadan',
       avatarUrl:
         'https://picsum.photos/id/233/200/300',
     },
     {
-      id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28ba',
-      stationName: 'Afreen Khan',
-      contactNumber: '08165229905',
-      stationAddress: '11, Appropriately enhance market street. Ibadan',
+      id: 'bd7agbea-c1b1-46c2-aed5-3ad53abb28ba',
+      stationName: 'Lorry Khan',
+      contactNumber: '08165239905',
+      stationAddress: '21, Appropriately enhance market street. Ibadan',
       avatarUrl:
         'https://picsum.photos/id/234/200/300',
     },

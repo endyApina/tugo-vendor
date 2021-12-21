@@ -12,7 +12,9 @@ const Stack = createStackNavigator();
 const Routes = () => {
     return (
         <NavigationContainer>
-            <Stack.Navigator> 
+            <Stack.Navigator
+                initialRouteName={appRoutes.homeScreen}
+            > 
                 <Stack.Screen
                     component={HomeScreen}
                     name={appRoutes.homeScreen}
@@ -41,7 +43,9 @@ const Routes = () => {
                     component={VendorDetail}
                     name={appRoutes.vendorDetails}
                     options={{
-                        headerShown: false
+                        headerTitle: "",
+                        // headerShown: false, 
+                        // header: null,
                     }}
                 />
             </Stack.Navigator>
